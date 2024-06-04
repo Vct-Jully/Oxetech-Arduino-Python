@@ -15,7 +15,8 @@ Gráfico de dispersão com linha de tendência para identificação de tendênci
 
 ## Gráficos Gerados
 Gráfico de Linhas: Mostra a variação da temperatura e da umidade ao longo das leituras.
-![Exemplo de Gráfico](path/to/your/image.png)
-
 Gráfico de Dispersão com Linha de Tendência: Ajuda a visualizar a distribuição dos dados e tendências.
-![Exemplo de Gráfico](path/to/your/image.png)
+![Exemplo de Gráfico](Oxetech-Arduino-Python/gráficos.png)
+
+
+
